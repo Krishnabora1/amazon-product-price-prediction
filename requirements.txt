@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+Pillow
+requests
+torch
+torchvision
+tqdm
+scipy
+xgboost

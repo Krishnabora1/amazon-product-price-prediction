@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
+
+# Large datasets
+data/train.csv
+data/test.csv
+
+# Generated ML artifacts
+*.pkl
+*.pickle
+*.h5
+*.pt
+*.pth
+*.onnx
+*.bin
+
+# Downloaded images
+images/train/
+images/test/
+downloaded_images/
+
+# Generated databases
+*.db
+*.sqlite
+
+# Python cache
+.pytest_cache/
+
+# Generated output (uncomment if you don't want to commit results)
+# results/*.csv
